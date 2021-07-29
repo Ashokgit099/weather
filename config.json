@@ -1,0 +1,5 @@
+{
+    "endpoint":"http://api.openweathermap.org/data/2.5/weather",
+    "apikey": "f262fd4b237d1f7a93d0eed45e558484",
+    "country_code": "us"
+}

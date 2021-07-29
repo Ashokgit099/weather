@@ -1,1 +1,1 @@
-# weather
+Python REST API to provide weather details for specific zip code in USA.
